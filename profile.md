@@ -1,0 +1,1 @@
+Hi! My name is Mustafa Ishaq. I am a Programming Fundamentals student learning C programming, algorithms, Git, and GitHub.
